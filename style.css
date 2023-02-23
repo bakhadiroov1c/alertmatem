@@ -1,0 +1,24 @@
+p{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+strong{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+}
+
+.true {
+    color: green;
+}
+.false {
+    color: red;
+}
+
+.trueAnswer{
+    color: blue;
+}
+
+.falseAnswer {
+    color: orange;
+}
